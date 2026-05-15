@@ -16,4 +16,4 @@ This project uses **Machine Learning** to predict agricultural yields based on e
 
 ##  Results
 The model identifies the most critical factors affecting yield, as seen below:
-![Feature Importance](feature_importance.png)<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/3bafd0ec-28aa-4524-822b-10932258c7b9" />
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/3bafd0ec-28aa-4524-822b-10932258c7b9" />
